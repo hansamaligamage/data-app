@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <!--<div class="row" ng-controller="mainController as main">
+        <map-directive map-options="main.mapOptions"></map-directive>
+    </div>-->
+    <!--testttt-->
+   
+
+    <ul class="tab">
+        <li><a href="javascript:void(0)" class="tablinks active" onclick="opentab(event, 'Overview')">Overview</a></li>
+        <li><a href="javascript:void(0)" class="tablinks" onclick="opentab(event, 'Detail')">Detail</a></li>
+        <!--<li><a href="javascript:void(0)" class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</a></li>-->
+    </ul>
+
+    <div id="Overview" class="tabcontent">
+        <!--<h3>London</h3>
+        <p>London is the capital city of England.</p>-->
+        <div class="row" ng-controller="mainController as main">
+            <map-directive map-options="main.mapOptions"></map-directive>
+        </div>
+        <table>
+            <tr>
+                <td>
+                    <div style="width:20px;height:20px;border:1px solid #000; background-color:red"></div>
+                </td>
+                <td>
+                    Subcontract
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style="width:20px;height:20px;border:1px solid #000; background-color:blue"></div>
+                </td>
+                <td>
+                    Self Delivery
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div id="Detail" class="tabcontent">
+        <h3>Paris</h3>
+        <p>Paris is the capital of France.</p>
+    </div>
+
+    <!--<div id="Tokyo" class="tabcontent">
+        <h3>Tokyo</h3>
+        <p>Tokyo is the capital of Japan.</p>
+    </div>-->
+</body>
+</html>
+
+<script data-require="angular.js@<2" data-semver="1.5.8" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.js"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.js"></script>-->
+
+<script src="/Scripts/lib/world.js"></script>
+<script src="/Scripts/lib/d3.v3.js"></script>
+<script src="/Scripts/lib/topojson.v0.min.js"></script>
+<script src="/Scripts/lib/crossfilter.js"></script>
+<script src="/Scripts/lib/queue.js"></script>
+
+<script src="/Scripts/app.js"></script>
+<script src="/Scripts/main.controller.js"></script>
+<script src="/Scripts/map.directive.js"></script>
+<script src="/Scripts/map.service.js"></script>
+<script src="/Scripts/data.service.js"></script>
+<script src="/Scripts/tab.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+
+<link rel="stylesheet" href="Styles/tab.css" type="text/css" />

@@ -1,0 +1,1411 @@
+Country,Site,latitude_longitude,ServiceLine,Baseline,DeliveryType
+Australia,South Wharf,"-37.824997,144.951999",Catering,671898.93,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,612543.11,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Security,585741.46,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Mail Room & Reception,506453.78,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Security,445417.30,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Catering,442672.28,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,398493.86,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,398155.04,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,379452.22,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,339477.89,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,310565.44,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Catering,293516.85,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,291233.45,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,269387.44,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Security,268424.05,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Security,257615.01,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,333276.87,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,249480.88,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Employee Convenience Services,246796.31,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,244718.36,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,239261.10,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Catering,226424.98,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,213452.64,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,212171.59,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,208935.03,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Catering,198283.37,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,188869.30,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,167795.75,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,166382.68,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,259252.10,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,159021.25,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,158955.38,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,157330.15,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,154058.58,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Reprographics & Stationery,151214.08,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,136372.51,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Catering,135249.81,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,131253.80,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,224549.10,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157","E, H, S & Q, compliance",147444.52,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,138996.29,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,118360.69,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,117232.21,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,114958.66,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,114854.48,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,114674.31,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Security,107823.87,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,106199.62,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,102122.53,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Fire and Security Equipment,99882.54,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,98653.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,98243.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,97999.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,97807.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,97807.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,97807.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,97212.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,97027.18,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,96583.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,95658.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,93519.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,92005.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,91398.20,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,90997.82,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,90227.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,89750.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,89603.04,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,88950.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,88012.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,87104.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,86415.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,85910.00,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,85779.76,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,85733.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,85733.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,85733.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,85601.15,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,84677.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,84232.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,83276.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,83108.96,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,82120.98,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,81285.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,81285.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,81285.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,81118.49,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,80772.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,80489.46,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Grounds Maintenance,80478.56,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,80306.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,79749.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,77771.75,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,77720.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,77685.74,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,77483.00,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,75238.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,74655.44,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Document Management,74655.44,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,74431.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,73738.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,72972.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,72629.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,72075.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,71722.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,71246.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,71127.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,68170.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,68170.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,68170.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,68120.21,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,68087.32,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,67676.00,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,66444.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,66235.16,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,65621.69,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,65041.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,63838.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,62802.53,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,62492.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,62351.21,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,62237.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,61625.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,61572.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,61239.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,61178.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Security,60982.36,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Mail Room & Reception,60925.41,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,60712.60,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,60370.29,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,59673.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,59445.94,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798","E, H, S & Q, compliance",58988.28,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,58496.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,58224.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,57943.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,57943.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,57943.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,57746.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,57643.39,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Security,56715.14,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,55941.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,55524.50,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,139948.88,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Mail Room & Reception,54846.82,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,53196.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455","E, H, S & Q, compliance",52863.29,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,52784.21,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,164039.73,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,51288.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,51099.65,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,50082.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,49940.00,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,49542.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,49450.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,49225.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,48725.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,48699.15,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,48505.47,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Catering,48009.19,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,47814.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,47504.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,47335.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,47322.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,47104.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,47030.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,46980.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,46695.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,46308.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,46211.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,45941.81,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,45695.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,45657.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,45617.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,45617.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,45606.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,45558.81,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,45178.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,45059.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,44928.51,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,44662.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,44577.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,44382.80,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,44096.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,44029.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,44005.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,43911.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,43890.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,43816.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,43785.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,43604.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,43304.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,43202.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,42908.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,42537.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,42228.94,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,42156.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,41921.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,41893.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,41442.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,41303.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,41214.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,41179.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,41152.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,41152.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,41152.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,41023.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,40993.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,40955.55,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,40784.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,120013.83,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,40335.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,40061.26,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,39974.37,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,39797.09,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,39717.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,39657.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,39301.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,39214.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,39128.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,39099.20,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,39031.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,38907.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,38820.47,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,38542.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,38357.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,38090.50,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,38032.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,37887.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,37659.76,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,37536.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,37240.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,37045.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,36801.00,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,36604.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,36533.03,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,36429.20,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Security,36353.40,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,36258.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,36146.48,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Fire and Security Equipment,35998.70,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Fire and Security Equipment,35898.16,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,35568.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,35462.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,35362.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,35353.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,35262.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,35257.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,35013.11,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,34986.55,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,34956.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,34867.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,34819.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,34558.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,34460.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,34213.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,34151.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,34010.92,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,33886.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,33490.26,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,33432.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,33399.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,33085.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,32684.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,32570.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,32282.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,32246.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,32219.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,32190.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,31881.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,31747.51,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,31607.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,31603.20,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,31505.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,31502.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,31404.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,31395.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,31342.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,31286.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,31171.52,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Catering,30908.52,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Fire and Security Equipment,30833.76,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Grounds Maintenance,30780.35,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,30712.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,30135.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,30060.65,Self Delivery
+India,Baddi,"30.957826,76.791356",M&E Equipment,29971.28,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,29939.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,29709.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798","E, H, S & Q, compliance",29632.16,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,29598.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,29440.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,29263.03,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,28963.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Fire and Security Equipment,28882.40,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,28820.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,28556.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,28487.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,28364.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,28256.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,28180.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,276991.91,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,27691.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,27689.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,27655.53,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,27626.10,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,27423.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,26712.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,26698.45,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,26451.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,26382.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,26295.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,26248.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,26248.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,26248.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,26237.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,26182.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,25995.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,25995.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,25995.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,25858.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,25833.00,Subcontract
+India,Baddi,"30.957826,76.791356",Building Fabric,25686.22,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,25680.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,25665.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,25623.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,25487.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,25482.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,25276.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,25098.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,25098.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,25098.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,25032.63,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,24702.04,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Catering,24677.69,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Mail Room & Reception,24519.50,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,24443.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,24088.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,23466.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,23354.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,23331.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,23247.48,
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,23174.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,23114.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,23056.24,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,22970.90,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,22835.39,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,22806.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,22794.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,22742.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,22657.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,22600.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,22385.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,22214.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,22131.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,22100.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,22005.33,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,21932.82,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Reprographics & Stationery,21717.95,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Catering,21506.26,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,21274.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,20978.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,20734.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,20642.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Security,20619.30,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,20533.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,20525.67,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,20409.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,20252.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,19980.86,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,19963.25,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,19862.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Security,19679.06,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,49346.59,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,19158.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,19084.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Security,18828.35,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,18702.14,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,18685.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,17977.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,17894.23,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,17677.77,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,17473.14,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,17421.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Grounds Maintenance,17262.63,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,17228.18,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,17149.77,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,17107.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,17057.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,17001.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,16983.15,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Cleaning,16684.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,16608.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,16606.13,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,16543.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,16324.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,16209.62,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157","E, H, S & Q, compliance",16175.35,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Catering,16106.33,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,16006.87,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,15995.41,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Projects,15528.36,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,15421.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,15345.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,15102.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,15069.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,14951.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,14950.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,14855.00,Self Delivery
+India,Baddi,"30.957826,76.791356",M&E Equipment,14830.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,14784.11,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,14716.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,14658.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Business Continuity & DR,14639.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,14604.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,14482.72,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836","Meetings, Communications, Events",14417.07,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Fire and Security Equipment,14349.73,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,14332.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,14302.74,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,14229.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Fire and Security Equipment,13986.99,Subcontract
+India,Baddi,"30.957826,76.791356",Building Fabric,13937.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,13860.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Fire and Security Equipment,13686.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Fire and Security Equipment,13674.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,13529.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,13517.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Business Continuity & DR,13425.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,13340.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Grounds Maintenance,13325.52,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,13246.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,13244.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Fleet Management,13180.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Fire and Security Equipment,13147.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,13143.72,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,13053.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,12948.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,12816.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,12767.76,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,12717.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,12649.00,Subcontract
+India,Baddi,"30.957826,76.791356",Building Fabric,12508.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Business Continuity & DR,12481.00,Self Delivery
+India,Baddi,"30.957826,76.791356",M&E Equipment,12427.63,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Fleet Management,12293.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Fire and Security Equipment,12208.00,Subcontract
+India,Baddi,"30.957826,76.791356",Fire and Security Equipment,12180.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,89297.80,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Fleet Management,12109.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,12076.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,11979.33,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Fleet Management,11972.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Security,11928.10,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,11894.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Cleaning,11825.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Business Continuity & DR,11824.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,11625.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Cleaning,11611.78,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,11599.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,11589.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Business Continuity & DR,11582.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,11553.67,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,11530.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Fire and Security Equipment,11522.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263","E, H, S & Q, compliance",11505.97,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,12572.34,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,11485.45,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,11485.45,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Grounds Maintenance,11485.45,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,11475.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Fire and Security Equipment,11460.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,11416.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Fire and Security Equipment,11305.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Business Continuity & DR,11205.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,11093.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,11091.15,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,11083.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Fire and Security Equipment,10970.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Grounds Maintenance,10911.18,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,10906.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,10845.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Business Continuity & DR,10797.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,10758.57,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,10733.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Catering,10709.67,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,10687.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,10612.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Fleet Management,10570.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,10528.33,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Cleaning,10495.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,10495.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Fleet Management,10430.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Grounds Maintenance,10282.37,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Fleet Management,10272.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,10234.72,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Fire and Security Equipment,10218.22,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,10214.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Fleet Management,10023.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,10001.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Reprographics & Stationery,9916.16,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",M&E Equipment,9902.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386","E, H, S & Q, compliance",9845.67,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Fleet Management,9813.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Fleet Management,9644.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Grounds Maintenance,9535.16,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,9427.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,9414.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Fire and Security Equipment,9372.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,9319.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,9286.64,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,9256.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,9251.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,9128.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Grounds Maintenance,9118.30,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Fleet Management,9043.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,8973.97,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,8900.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,8577.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,8541.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Cleaning,8507.91,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,8434.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Business Continuity & DR,8375.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,8281.01,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Business Continuity & DR,8244.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,8170.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,8084.21,Subcontract
+India,Baddi,"30.957826,76.791356",FM management & administration,8061.59,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Fire and Security Equipment,8017.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Fleet Management,7993.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Catering,7947.93,Subcontract
+India,Baddi,"30.957826,76.791356",Fleet Management,7832.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Fire and Security Equipment,7695.25,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,7692.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Cleaning,7688.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Mail Room & Reception,84621.27,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Catering,7609.15,Subcontract
+India,Baddi,"30.957826,76.791356",Building Fabric,7594.88,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,7473.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,7357.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",M&E Equipment,7354.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Business Continuity & DR,7309.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Building Fabric,7294.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Cleaning,7244.01,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Fire and Security Equipment,7222.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,7203.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Mail Room & Reception,6987.48,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,6960.37,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,6918.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386","E, H, S & Q, compliance",6845.33,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,141392.19,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,6650.51,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Cleaning,6642.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,6573.00,Subcontract
+India,Baddi,"30.957826,76.791356",Catering,6554.73,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Cleaning,6548.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,6529.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Cleaning,6460.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,6261.14,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Grounds Maintenance,6238.23,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Fleet Management,6199.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,6198.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Business Continuity & DR,6190.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Business Continuity & DR,6056.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",M&E Equipment,6038.00,Subcontract
+India,Baddi,"30.957826,76.791356",M&E Equipment,6030.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Fleet Management,6020.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Fire and Security Equipment,5980.76,Subcontract
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,5830.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",M&E Equipment,5745.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,5742.73,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,5734.82,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",M&E Equipment,5728.37,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Catering,5721.10,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328","E, H, S & Q, compliance",5692.30,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Security,5640.05,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,5615.76,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,5518.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,5283.31,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,5218.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Fire and Security Equipment,5212.48,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,5076.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,5066.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,4801.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Grounds Maintenance,4785.60,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Building Fabric,4779.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332","E, H, S & Q, compliance",4767.58,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,4754.48,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Cleaning,4702.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Building Fabric,4615.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Cleaning,4509.76,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,4505.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,4425.76,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,4414.83,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Security,4326.19,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Business Continuity & DR,4273.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,4240.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Building Fabric,4210.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,4124.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Cleaning,4035.04,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Fire and Security Equipment,3989.83,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Catering,3954.76,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Building Fabric,3909.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Security,3854.67,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,3847.63,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Fire and Security Equipment,3828.48,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,3825.54,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Security,3647.72,Subcontract
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,3552.83,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,3547.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",M&E Equipment,3469.95,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Cleaning,3460.57,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Fire and Security Equipment,3356.38,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Projects,3345.29,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Building Fabric,3339.75,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,3329.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Cleaning,3279.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Catering,3254.21,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,3203.35,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Security,3147.16,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Grounds Maintenance,3146.60,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,3086.49,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Catering,2972.86,Subcontract
+India,Baddi,"30.957826,76.791356",Catering,2945.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Catering,2897.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Catering,2864.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Catering,2843.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Catering,2803.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Catering,2794.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Catering,2788.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Catering,2778.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Catering,2767.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,2755.11,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,2704.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,2670.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Catering,2666.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Catering,2625.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Building Fabric,2617.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Building Fabric,2615.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Catering,2612.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Catering,2609.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Grounds Maintenance,2603.37,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Catering,2550.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",M&E Equipment,2533.12,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Catering,2470.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Catering,2465.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",M&E Equipment,2372.85,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Catering,2371.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,2367.09,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Catering,2357.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Cleaning,2194.07,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Catering,2194.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Catering,2178.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Catering,2096.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Catering,2075.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Catering,2058.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Catering,2047.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Catering,2045.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Catering,2040.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Catering,2037.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Catering,2034.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Catering,2020.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,2016.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,25071.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524","E, H, S & Q, compliance",10827.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Grounds Maintenance,27370.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Employee Convenience Services,9508.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Grounds Maintenance,10107.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Catering,1977.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,11489.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Grounds Maintenance,29204.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,29204.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Grounds Maintenance,25228.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Grounds Maintenance,29824.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,19319.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Employee Convenience Services,9723.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Grounds Maintenance,27546.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,9671.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,9671.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,8851.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Employee Convenience Services,10368.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,25205.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,25139.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,25139.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,23762.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Grounds Maintenance,23762.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,25891.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Employee Convenience Services,8674.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,25123.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,1914.24,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Employee Convenience Services,9530.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,25089.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,12937.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Grounds Maintenance,25852.00,Self Delivery
+India,Baddi,"30.957826,76.791356",M&E Equipment,1891.04,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Grounds Maintenance,27494.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Employee Convenience Services,8539.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Catering,1886.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,11642.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Grounds Maintenance,8729.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Employee Convenience Services,9516.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,27327.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,27327.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Employee Convenience Services,9383.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Grounds Maintenance,26503.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Employee Convenience Services,9800.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,26948.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,30682.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Security,1848.59,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Employee Convenience Services,8028.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,12854.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Employee Convenience Services,8328.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Grounds Maintenance,24125.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,12877.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Document Management,8008.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Employee Convenience Services,10369.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,13808.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Business Continuity & DR,1803.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,30627.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Employee Convenience Services,9415.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,28154.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Grounds Maintenance,28154.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Catering,1788.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,20496.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,20496.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,20496.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Catering,1780.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288","E, H, S & Q, compliance",9164.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,12257.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,16011.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,16025.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,16025.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Employee Convenience Services,8090.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,23957.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Employee Convenience Services,9282.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Grounds Maintenance,29510.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Security,1728.57,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Employee Convenience Services,10237.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,25671.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,15678.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Grounds Maintenance,15678.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,8022.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Employee Convenience Services,8707.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Catering,1691.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,26776.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Grounds Maintenance,26776.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,29844.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,1656.28,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,16280.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,21262.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Employee Convenience Services,9537.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,15092.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524","E, H, S & Q, compliance",10305.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,7953.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Employee Convenience Services,8788.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,24570.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,18047.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,18047.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Building Fabric,1607.96,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,14472.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Grounds Maintenance,24549.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Catering,1598.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,23811.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Catering,1585.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Security,1581.90,Subcontract
+Australia,South Wharf,"-37.824997,144.951999","E, H, S & Q, compliance",9752.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,29761.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Grounds Maintenance,30211.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Catering,1546.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Employee Convenience Services,10347.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Grounds Maintenance,25050.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Employee Convenience Services,10309.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Grounds Maintenance,28373.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,8872.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,8872.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Catering,1524.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Catering,1508.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,20353.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,20353.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Grounds Maintenance,24582.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Catering,1498.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,12491.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Grounds Maintenance,12491.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Document Management,7612.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,23295.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Employee Convenience Services,9938.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,25424.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,26093.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Fire and Security Equipment,1459.44,Subcontract
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,16126.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Employee Convenience Services,9988.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Catering,1454.82,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Employee Convenience Services,10299.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Grounds Maintenance,13570.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,1436.37,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Employee Convenience Services,8844.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,19756.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,23732.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Fire and Security Equipment,1433.75,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Employee Convenience Services,8917.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,29284.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,28352.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861","E, H, S & Q, compliance",8268.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Grounds Maintenance,21803.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,24026.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Catering,1395.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,12708.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,9508.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Employee Convenience Services,9439.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Catering,1371.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,14817.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Grounds Maintenance,23982.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Employee Convenience Services,9093.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,29933.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,1360.44,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,15265.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Grounds Maintenance,16024.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Cleaning,1353.86,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Employee Convenience Services,8726.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Employee Convenience Services,8328.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,23858.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,11680.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,30796.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,21730.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Catering,1332.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Catering,1329.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,1328.80,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Document Management,7612.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Grounds Maintenance,15570.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Building Fabric,1294.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Grounds Maintenance,10799.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332","E, H, S & Q, compliance",10187.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Document Management,9318.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,20900.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Grounds Maintenance,27122.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Grounds Maintenance,31102.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,26879.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,24467.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Grounds Maintenance,24467.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Employee Convenience Services,8911.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,7599.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Grounds Maintenance,1263.40,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,29891.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,29891.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Employee Convenience Services,9010.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Grounds Maintenance,25971.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Grounds Maintenance,18588.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,1231.79,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Catering,1227.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,26675.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,10539.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Employee Convenience Services,9361.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,18356.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,10539.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Employee Convenience Services,9259.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,26794.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Security,1198.94,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Employee Convenience Services,7232.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,19784.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Catering,1189.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Catering,1181.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Grounds Maintenance,16940.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Grounds Maintenance,12248.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,16940.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,12248.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,24687.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",M&E Equipment,1178.52,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Employee Convenience Services,9297.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,28113.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Business Continuity & DR,1171.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,18172.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,18172.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,1156.80,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,7158.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Document Management,7242.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Employee Convenience Services,9163.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,7861.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Grounds Maintenance,26021.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Grounds Maintenance,30589.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Employee Convenience Services,7898.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Cleaning,1131.85,Subcontract
+India,Baddi,"30.957826,76.791356",FM management & administration,1129.10,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,18253.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Grounds Maintenance,18253.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Employee Convenience Services,9466.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,21232.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Catering,1107.33,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Grounds Maintenance,28358.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Catering,1093.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Catering,1090.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Catering,1072.00,Subcontract
+India,Baddi,"30.957826,76.791356",Building Fabric,19055.85,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Employee Convenience Services,8567.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Grounds Maintenance,16006.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Building Fabric,1048.05,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Catering,1047.12,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Document Management,8353.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,23372.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,28805.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Building Fabric,1024.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,26899.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Employee Convenience Services,8023.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,26872.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,26872.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Grounds Maintenance,14988.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,8976.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Grounds Maintenance,16381.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Employee Convenience Services,8624.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,30821.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,30821.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,22595.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Grounds Maintenance,22595.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,18306.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,8307.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Employee Convenience Services,955.67,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Grounds Maintenance,19387.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Employee Convenience Services,9448.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,28056.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Grounds Maintenance,21057.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Grounds Maintenance,14514.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,14514.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,13792.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Employee Convenience Services,9857.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Grounds Maintenance,14364.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",M&E Equipment,901.75,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Employee Convenience Services,9546.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,24077.00,Self Delivery
+India,Baddi,"30.957826,76.791356","E, H, S & Q, compliance",8923.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,18225.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,22508.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288","E, H, S & Q, compliance",7831.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,28128.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,7040.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,7040.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Grounds Maintenance,12872.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,12872.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Grounds Maintenance,10178.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Cleaning,849.48,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,27680.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Employee Convenience Services,7934.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,8418.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",M&E Equipment,830.78,Subcontract
+Australia,Scoresby,"-37.898567,145.230362","E, H, S & Q, compliance",9825.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Grounds Maintenance,27944.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,19266.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,7479.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Grounds Maintenance,19415.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Grounds Maintenance,11293.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,11293.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Employee Convenience Services,7602.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,26642.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332","Meetings, Communications, Events",794.60,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,6801.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,19113.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Grounds Maintenance,6801.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Building Fabric,787.54,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Employee Convenience Services,9599.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,29734.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Grounds Maintenance,8751.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Employee Convenience Services,7364.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,7108.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,768.19,Subcontract
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,15397.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",FM management & administration,15397.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Grounds Maintenance,12080.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Employee Convenience Services,7256.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861","E, H, S & Q, compliance",7003.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Grounds Maintenance,14665.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Reprographics & Stationery,751.40,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Grounds Maintenance,19602.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Catering,743.24,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Grounds Maintenance,25216.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",FM management & administration,25216.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Grounds Maintenance,7451.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,14711.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,7636.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308","E, H, S & Q, compliance",9394.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Grounds Maintenance,9045.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Employee Convenience Services,8863.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Grounds Maintenance,14711.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308","E, H, S & Q, compliance",8099.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Grounds Maintenance,14180.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362","E, H, S & Q, compliance",8783.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Grounds Maintenance,14368.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Document Management,4866.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Grounds Maintenance,26575.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Grounds Maintenance,23229.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Document Management,9051.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Grounds Maintenance,8432.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Fire and Security Equipment,711.86,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",FM management & administration,23039.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Grounds Maintenance,23039.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,707.90,Self Delivery
+India,Baddi,"30.957826,76.791356",Fire and Security Equipment,691.05,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,26070.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Grounds Maintenance,17685.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Grounds Maintenance,17094.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Cleaning,659.20,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Document Management,5515.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Grounds Maintenance,23855.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Document Management,4044.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,26987.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Document Management,4833.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,25100.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999","E, H, S & Q, compliance",6640.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,29183.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,15989.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Document Management,3769.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,14582.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,14658.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836","E, H, S & Q, compliance",9487.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Employee Convenience Services,592.29,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455","E, H, S & Q, compliance",6862.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",FM management & administration,25472.00,Self Delivery
+India,Baddi,"30.957826,76.791356","E, H, S & Q, compliance",7183.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,11621.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,26446.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",FM management & administration,10320.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,10320.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Grounds Maintenance,8138.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Employee Convenience Services,9302.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",FM management & administration,14789.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,7841.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Cleaning,529.94,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Employee Convenience Services,6913.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,14098.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,511.75,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328","E, H, S & Q, compliance",6962.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,27772.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,12626.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,25229.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Mail Room & Reception,4445.00,Self Delivery
+India,Baddi,"30.957826,76.791356","Meetings, Communications, Events",4445.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455","Meetings, Communications, Events",3017.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524","Meetings, Communications, Events",4931.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Mail Room & Reception,3017.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Catering,487.89,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Mail Room & Reception,3434.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Employee Convenience Services,7795.00,Self Delivery
+India,Baddi,"30.957826,76.791356",FM management & administration,7139.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Mail Room & Reception,5350.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999","Meetings, Communications, Events",2862.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Mail Room & Reception,3757.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Mail Room & Reception,4286.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308","Meetings, Communications, Events",4286.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Real Estate & Property management,4905.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798","Meetings, Communications, Events",2859.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861","Meetings, Communications, Events",4922.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Mail Room & Reception,3349.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362","Meetings, Communications, Events",3665.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Real Estate & Property management,3665.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,449.13,Subcontract
+Singapore,Jurong,"1.364434,103.775263",FM management & administration,29059.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836","E, H, S & Q, compliance",7275.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Mail Room & Reception,2517.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362","Meetings, Communications, Events",4683.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Mail Room & Reception,2517.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263","Meetings, Communications, Events",4683.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Grounds Maintenance,29393.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Document Management,9311.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Grounds Maintenance,6598.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288","Meetings, Communications, Events",3804.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Projects,3804.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Real Estate & Property management,4142.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Mail Room & Reception,2938.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",FM management & administration,16189.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Document Management,3635.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Mail Room & Reception,2927.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,427.11,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524","Meetings, Communications, Events",3680.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Mail Room & Reception,4809.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Mail Room & Reception,3221.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Projects,3270.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Mail Room & Reception,3270.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Employee Convenience Services,7370.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",FM management & administration,10178.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Projects,3346.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Mail Room & Reception,2998.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Mail Room & Reception,2866.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Real Estate & Property management,2866.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Projects,2467.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Mail Room & Reception,4991.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263","Meetings, Communications, Events",4991.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288","Meetings, Communications, Events",2567.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Projects,2567.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Employee Convenience Services,7020.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Grounds Maintenance,7686.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,390.55,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Grounds Maintenance,15330.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Mail Room & Reception,4157.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861","Meetings, Communications, Events",4451.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Mail Room & Reception,4791.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Mail Room & Reception,4791.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Projects,3902.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Mail Room & Reception,3902.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798","Meetings, Communications, Events",4541.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288","Meetings, Communications, Events",5062.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328","Meetings, Communications, Events",5057.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Real Estate & Property management,5062.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Mail Room & Reception,4036.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,14412.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Mail Room & Reception,4555.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",FM management & administration,8666.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Mail Room & Reception,3815.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308","Meetings, Communications, Events",3815.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Mail Room & Reception,3053.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",FM management & administration,28964.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",FM management & administration,13996.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Building Fabric,344.03,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Projects,2604.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Projects,4501.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Mail Room & Reception,4501.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",FM management & administration,7174.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Projects,4726.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Projects,2680.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Mail Room & Reception,2680.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Mail Room & Reception,5315.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Mail Room & Reception,3131.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Real Estate & Property management,3939.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836","Meetings, Communications, Events",3939.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",FM management & administration,10653.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Employee Convenience Services,7084.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Grounds Maintenance,10073.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524","Meetings, Communications, Events",3082.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Mail Room & Reception,2530.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Real Estate & Property management,2704.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Mail Room & Reception,2704.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Mail Room & Reception,3134.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Projects,4031.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Mail Room & Reception,4031.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",M&E Equipment,299.16,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Mail Room & Reception,5079.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Projects,5079.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386","Meetings, Communications, Events",3158.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Projects,3158.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Projects,2776.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Real Estate & Property management,2776.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Projects,3323.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328","Meetings, Communications, Events",3269.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386",Building Fabric,279.30,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Mail Room & Reception,2758.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Projects,3043.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Mail Room & Reception,2438.00,Self Delivery
+India,Baddi,"30.957826,76.791356","Meetings, Communications, Events",2438.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Mail Room & Reception,3650.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836","Meetings, Communications, Events",3650.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Security,252.67,Subcontract
+Australia,Scoresby,"-37.898567,145.230362","Meetings, Communications, Events",3294.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Mail Room & Reception,3296.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Projects,3294.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Real Estate & Property management,3566.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Building Fabric,234.12,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999","Meetings, Communications, Events",2868.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Mail Room & Reception,3074.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861","Meetings, Communications, Events",4708.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Mail Room & Reception,3565.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332","Meetings, Communications, Events",2735.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328","Meetings, Communications, Events",4134.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999","Meetings, Communications, Events",2751.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Projects,2616.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",M&E Equipment,212.37,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Mail Room & Reception,3553.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Mail Room & Reception,4600.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Projects,2211.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Mail Room & Reception,3104.00,Self Delivery
+India,Baddi,"30.957826,76.791356","Meetings, Communications, Events",3104.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386","Meetings, Communications, Events",2520.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308","Meetings, Communications, Events",2520.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Projects,4463.00,Self Delivery
+Australia,Claremont,"-31.981633,115.781288",Real Estate & Property management,4340.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Mail Room & Reception,4340.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Mail Room & Reception,4060.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Projects,4060.00,Self Delivery
+Australia,State Sales Offices,"-37.814107,144.96328",Mail Room & Reception,4764.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Projects,2843.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157","Meetings, Communications, Events",2843.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Real Estate & Property management,4901.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,156.22,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Real Estate & Property management,2549.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157","Meetings, Communications, Events",2549.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798","Meetings, Communications, Events",2843.00,Self Delivery
+New Zealand,Avondale,"-36.894517,174.696524",Real Estate & Property management,4688.00,Self Delivery
+India,Baddi,"30.957826,76.791356",M&E Equipment,150.43,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332","Meetings, Communications, Events",2491.00,Self Delivery
+Australia,Dandenong VDC,"-37.98746,145.214861",Projects,3901.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Mail Room & Reception,3584.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Mail Room & Reception,3283.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Mail Room & Reception,3584.00,Self Delivery
+Australia,Ringwood,"-37.814262,145.227386","Meetings, Communications, Events",2356.00,Self Delivery
+India,Mumbai EC,"19.030029,72.861308",Projects,2356.00,Self Delivery
+New Zealand,Auckland DC,"-36.84846,174.763332",Projects,3710.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Projects,3479.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157","Meetings, Communications, Events",3479.00,Self Delivery
+Australia,South Wharf,"-37.824997,144.951999",Mail Room & Reception,3850.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Real Estate & Property management,3850.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455","Meetings, Communications, Events",3119.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Mail Room & Reception,3119.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,118.64,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Projects,3130.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455",Mail Room & Reception,3521.00,Self Delivery
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Projects,3521.00,Self Delivery
+Australia,Scoresby,"-37.898567,145.230362",Mail Room & Reception,3233.00,Self Delivery
+Singapore,Jurong,"1.364434,103.775263","Meetings, Communications, Events",3233.00,Self Delivery
+Australia,Port Melbourne,"-37.836926,144.94455","Meetings, Communications, Events",2935.00,Self Delivery
+Thailand,Lad Krabang,"13.722049,100.784157",Mail Room & Reception,2935.00,Self Delivery
+New Zealand,Dunedin,"-45.87876,170.502798",Real Estate & Property management,3885.00,Self Delivery
+India,Baddi,"30.957826,76.791356",Reprographics & Stationery,99.16,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Cleaning,98.42,Subcontract
+India,Baddi,"30.957826,76.791356",Reprographics & Stationery,77.87,Subcontract
+Singapore,Jurong,"1.364434,103.775263","E, H, S & Q, compliance",75.93,Self Delivery
+Singapore,Jurong,"1.364434,103.775263",Reprographics & Stationery,39.63,Subcontract
+Singapore,Jurong,"1.364434,103.775263",M&E Equipment,39.55,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Cleaning,21447.30,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Catering,4731.62,Subcontract
+India,Baddi,"30.957826,76.791356",Cleaning,0.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Security,50024.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Security,52551.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Security,22220.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Security,24055.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Security,31594.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Reprographics & Stationery,22390.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Reprographics & Stationery,21133.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Reprographics & Stationery,6281.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Utilities,13143.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Utilities,52100.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Utilities,52011.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Utilities,40259.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Utilities,48138.00,Subcontract
+Australia,Claremont,"-31.981633,115.781288",Utilities,32540.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Security,7531.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Security,26720.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Security,34206.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Security,40091.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Security,52123.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Reprographics & Stationery,9372.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Reprographics & Stationery,44707.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Reprographics & Stationery,15482.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Utilities,45303.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Utilities,6690.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Utilities,48892.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Utilities,46836.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Utilities,18674.00,Subcontract
+Australia,Ringwood,"-37.814262,145.227386",Utilities,21239.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Security,47329.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Security,33803.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Security,16693.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Security,7433.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Security,27080.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Reprographics & Stationery,54492.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Reprographics & Stationery,30487.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Reprographics & Stationery,26203.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Utilities,27788.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Utilities,16514.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Utilities,10889.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Utilities,15939.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Utilities,34195.00,Subcontract
+Australia,Scoresby,"-37.898567,145.230362",Utilities,51334.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Security,47580.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Security,11908.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Reprographics & Stationery,39546.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Reprographics & Stationery,17219.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Reprographics & Stationery,13348.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Utilities,56165.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Utilities,29580.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Utilities,23446.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Utilities,12992.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Utilities,39244.00,Subcontract
+Australia,Port Melbourne,"-37.836926,144.94455",Utilities,26839.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Security,57046.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Security,6596.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Security,8089.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Security,18152.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Reprographics & Stationery,51980.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Reprographics & Stationery,22622.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Utilities,20302.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Utilities,54456.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Utilities,31065.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Utilities,39014.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Utilities,24453.00,Subcontract
+Australia,South Wharf,"-37.824997,144.951999",Utilities,23060.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Security,21493.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Security,17452.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Security,58445.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Security,5969.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Security,22266.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Reprographics & Stationery,35092.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Reprographics & Stationery,32114.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Reprographics & Stationery,10791.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Utilities,46272.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Utilities,14205.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Utilities,6664.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Utilities,53987.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Utilities,30477.00,Subcontract
+Australia,Dandenong VDC,"-37.98746,145.214861",Utilities,31559.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Security,26856.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Security,56653.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Security,16641.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Security,31890.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Reprographics & Stationery,20818.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Reprographics & Stationery,47029.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Reprographics & Stationery,55221.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Utilities,20265.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Utilities,7931.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Utilities,6022.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Utilities,33635.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Utilities,9968.00,Subcontract
+Australia,State Sales Offices,"-37.814107,144.96328",Utilities,7032.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Security,56774.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Reprographics & Stationery,22675.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Reprographics & Stationery,12975.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Reprographics & Stationery,52402.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Utilities,32517.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Utilities,5768.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Utilities,37034.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Utilities,19685.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Utilities,50024.00,Subcontract
+New Zealand,Dunedin,"-45.87876,170.502798",Utilities,52551.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Security,22220.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Security,24055.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Security,31594.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Security,22390.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Security,21133.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Reprographics & Stationery,6281.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Reprographics & Stationery,13143.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Reprographics & Stationery,52100.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Utilities,52011.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Utilities,40259.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Utilities,48138.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Utilities,32540.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Utilities,7531.00,Subcontract
+New Zealand,Auckland DC,"-36.84846,174.763332",Utilities,26720.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Security,34206.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Security,40091.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Security,52123.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Security,9372.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Security,44707.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Reprographics & Stationery,15482.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Reprographics & Stationery,45303.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Reprographics & Stationery,6690.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Utilities,48892.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Utilities,46836.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Utilities,18674.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Utilities,21239.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Utilities,47329.00,Subcontract
+New Zealand,Avondale,"-36.894517,174.696524",Utilities,33803.00,Subcontract
+India,Baddi,"30.957826,76.791356",Security,16693.00,Subcontract
+India,Baddi,"30.957826,76.791356",Security,7433.00,Subcontract
+India,Baddi,"30.957826,76.791356",Security,27080.00,Subcontract
+India,Baddi,"30.957826,76.791356",Security,54492.00,Subcontract
+India,Baddi,"30.957826,76.791356",Security,30487.00,Subcontract
+India,Baddi,"30.957826,76.791356",Security,26203.00,Subcontract
+India,Baddi,"30.957826,76.791356",Reprographics & Stationery,27788.00,Subcontract
+India,Baddi,"30.957826,76.791356",Utilities,16514.00,Subcontract
+India,Baddi,"30.957826,76.791356",Utilities,10889.00,Subcontract
+India,Baddi,"30.957826,76.791356",Utilities,15939.00,Subcontract
+India,Baddi,"30.957826,76.791356",Utilities,34195.00,Subcontract
+India,Baddi,"30.957826,76.791356",Utilities,51334.00,Subcontract
+India,Baddi,"30.957826,76.791356",Utilities,47580.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Security,11908.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Security,39546.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Security,17219.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Security,13348.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Security,56165.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Security,29580.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Reprographics & Stationery,23446.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Reprographics & Stationery,12992.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Reprographics & Stationery,39244.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Utilities,26839.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Utilities,57046.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Utilities,6596.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Utilities,8089.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Utilities,18152.00,Subcontract
+India,Mumbai EC,"19.030029,72.861308",Utilities,51980.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Security,22622.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Security,20302.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Security,54456.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Security,31065.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Reprographics & Stationery,39014.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Reprographics & Stationery,24453.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Utilities,23060.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Utilities,21493.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Utilities,17452.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Utilities,58445.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Utilities,5969.00,Subcontract
+Singapore,Jurong,"1.364434,103.775263",Utilities,22266.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Security,35092.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Security,32114.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Security,10791.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Security,46272.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Security,14205.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Security,6664.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Utilities,53987.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Utilities,30477.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Utilities,31559.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Utilities,26856.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Utilities,56653.00,Subcontract
+Singapore,Keppel Bay Towers,"1.352083,103.819836",Utilities,16641.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Security,31890.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Security,20818.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Security,47029.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Security,55221.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Security,20265.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Reprographics & Stationery,7931.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Reprographics & Stationery,6022.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Reprographics & Stationery,33635.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Utilities,9968.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Utilities,7032.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Utilities,56774.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Utilities,22675.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Utilities,12975.00,Subcontract
+Thailand,Lad Krabang,"13.722049,100.784157",Utilities,52402.00,Subcontract
